@@ -1,13 +1,4 @@
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\model\User.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\ProductDAO.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\controller\HomeController.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\UserDAO.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\CategoryDAO.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\SupplierDAO.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\ProductDAOImpl.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\model\Product.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\UserDAOImpl.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\model\Supplier.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\CategoryDAOImpl.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\dao\SupplierDAOImpl.java
-G:\Java programs\eclipse\JEE files\frontendproject\src\main\java\com\niit\shopping\model\Category.java
+G:\Java programs\eclipse\JEE files\shopping\src\main\java\com\niit\dao\CategoryDAOImpl.java
+G:\Java programs\eclipse\JEE files\shopping\src\main\java\com\niit\config\ApplicationContextConfig.java
+G:\Java programs\eclipse\JEE files\shopping\src\main\java\com\niit\dao\CategoryDAO.java
+G:\Java programs\eclipse\JEE files\shopping\src\main\java\com\niit\model\Category.java
