@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+#the-slider img{
+width: 100%;
+}
+hr{
+border-top: 1px solid #695b5b;
+}
+
+
+.navbar-default {
+    background-color: rgba(255,255,255,.15);
+    border-color: rgba(255,255,255,.15);
+}
+.navbar-brand {
+    
+    padding: 1px 10px;
+    
+}
+ 
+ul {
+    color: #080808;
+	}
+	body{
+	line-height: 2;
+	}
+	
+		
+	.navbar-brand{
+		height: 5px;
+		padding: 05px 10px;
+	}
+	
+	.top-buffer {
+		margin-top:100px; 
+		}
+		
+		.verticalLine {
+    border-left: thick solid #ff0000;
+}
